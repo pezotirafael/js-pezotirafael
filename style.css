@@ -3,6 +3,6 @@ html, body {
     padding: 0;
   }
   canvas_{
-  _display: block;
+  display: block;
   }
     
